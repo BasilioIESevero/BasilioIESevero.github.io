@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color:rgba(15, 25, 35, 255) !important;  
+}
+header{
+    font-size: 50px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background-image:url(https://guitarriego.com/wp-content/uploads/2020/06/DAW-gratis-mejores-programas-grabar-mezclar-editar-audio-musica-guitarra-guitarriego-scaled.jpg);
+    height: 150px;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+#Lista{
+    text-align:left;
+    border:red solid 3px;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    
+}
+#Lista h3{
+    text-decoration: underline white;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul{
+    list-style:none;
+}
+a:hover{
+    color: red;
+}
+#pagina5{
+    font-size: 50px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    height: 150px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    background-image: url(https://concepto.de/wp-content/uploads/2014/08/programacion-2-e1551291144973.jpg);
+}
+#pagina4{
+    font-size: 50px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    height: 150px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    background-image: url(https://digitalcubik.com/wp-content/uploads/2020/04/html-6.jpg)
+}
+#pagina3{
+    background-image: url(https://efa-centro.org/wp-content/uploads/2020/01/admin-1024x630.jpg);
+    font-size: 50px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    height: 150px;
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+#pagina2{
+    font-size: 50px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    height: 150px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    background-image: url(https://previews.123rf.com/images/teguhjatipras/teguhjatipras1702/teguhjatipras170200264/71818570-ide-entorno-de-desarrollo-integrado-ilustraci%C3%B3n-de-texto-blanco-con-mapa-de-constelaci%C3%B3n-p%C3%BArpura.jpg);
+        
+}
+li a {
+    color: white;
+}
+li a:hover{
+    color: red;
+}
